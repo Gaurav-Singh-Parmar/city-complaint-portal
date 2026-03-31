@@ -1,0 +1,53 @@
+{
+  "name": "cavic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.2",
+    "@mui/material": "^7.3.2",
+    "@next-auth/mongodb-adapter": "^1.1.3",
+    "blueimp-md5": "^2.19.0",
+    "bootstrap": "^5.3.8",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "framer-motion": "^12.23.22",
+    "jsqr": "^1.4.0",
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.9.2",
+    "mongoose": "^8.18.1",
+    "multer": "^2.0.2",
+    "next": "^14.2.35",
+    "next-auth": "^4.24.13",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^7.0.7",
+    "openai": "^5.20.2",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-leaflet": "^4.2.1",
+    "react-qr-code": "^2.0.18",
+    "react-slick": "^0.30.2",
+    "recharts": "^2.12.3",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.5",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4"
+  }
+}
